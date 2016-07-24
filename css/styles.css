@@ -1,0 +1,24 @@
+#locationResult {
+  display: none;
+  margin-top: 20px;
+}
+
+#kuwait-img {
+  display: none;
+  max-width: 100%;
+}
+
+#baghdad-img {
+  display: none;
+  max-width: 100%;
+}
+
+#erbil-img {
+  display: none;
+  max-width: 100%;
+}
+
+#afganistan-img {
+  display: none;
+  max-width: 100%;
+}
