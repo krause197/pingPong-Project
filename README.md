@@ -1,12 +1,32 @@
-# Vacation Suggester
+# Ping Pong
 
-#### Vacation Suggester Project for Epicodus, Intro to Coding Class, June 2016
+#### Ping Pong Project for Epicodus, Intro to Coding Class, July 2016
 
 #### By Eric Krause
 
 ## Description
 
 This is a web page that was designed as a vacation suggester.  Users input their basic demographic information and answer a few questions about their vacation preferences and the webpage will return a suggested location to visit.  
+
+## Specifications
+
+* Count up to number input by user.
+  * Example input: 2
+  * Example output: [1,2]
+
+* All numbers returned in output divisible by 3 replaced by "ping".
+  * Example input: 3
+  * Example output: [1,2,"ping"]
+
+* All numbers returned in output divisible by 5 replaced by "pong".
+  * Example input: 5
+  * Example output: [1,2,"ping",4,"pong"]
+
+* All numbers returned in output divisible by 15 replaced by "pingpong".
+ * Example input: 15
+ * Example output: [1,2,"ping",4,"pong","ping",7,8,"ping","pong",11,"ping",13,14,"pingpong"]
+
+* Program will reset and return new set of numbers with each user input.ß
 
 ## Setup/Installation Requirements
 
