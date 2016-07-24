@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a web page that was designed as a vacation suggester.  Users input their basic demographic information and answer a few questions about their vacation preferences and the webpage will return a suggested location to visit.  
+This is a web page that was designed as an example page using arrays and looping.  Users input a random number and the page counts up to the number, while replacing numbers divisible by 3, 5, and 15 with "ping", "pong", and "pingpong" respectively.   
 
 ## Specifications
 
@@ -50,7 +50,7 @@ Contact the creator of this webpage at krause197@gmail.com if you have questions
 * JavaScript
 * JQuery
 
-#### GitHub Page page link: http://krause197.github.io/Vacation-Suggester-/
+#### GitHub Page page link: http://krause197.github.io/pingPong-Project/
 
 ### License
 
