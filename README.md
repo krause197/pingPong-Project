@@ -26,7 +26,7 @@ This is a web page that was designed as a vacation suggester.  Users input their
  * Example input: 15
  * Example output: [1,2,"ping",4,"pong","ping",7,8,"ping","pong",11,"ping",13,14,"pingpong"]
 
-* Program will reset and return new set of numbers with each user input.ß
+* Program will reset and return new set of numbers with each user input.
 
 ## Setup/Installation Requirements
 
